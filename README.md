@@ -14,3 +14,7 @@ Another test line 2
 Another test line 3
 
 ##How to contribute
+
+###Copyright
+
+2014 Git.Training
